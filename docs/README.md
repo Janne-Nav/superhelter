@@ -48,6 +48,7 @@ Explore the following guides to understand OctoAcme's project management practic
 - **[Release & Deployment Guide](octoacme-release-and-deployment.md)** — Standardized release processes, deployment checklists, and rollback procedures
 - **[Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)** — Capturing learnings and driving iterative process improvements
 - **[Roles and Personas](octoacme-roles-and-personas.md)** — Detailed definitions of team roles, responsibilities, and communication patterns
+- **[Roles and Personas Checklist](roles-and-personas-checklist.md)** — Verification checklist for role assignment and responsibility clarity during project initiation
 
 ## Getting Started
 
