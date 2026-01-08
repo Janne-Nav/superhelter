@@ -187,7 +187,7 @@ When you learn something valuable:
 The Copilot coding agent can help create pull requests:
 
 1. Create an issue or define the work needed
-2. Attach the issue to your conversation: `@navikt/historisk-superhelt/issues/#`
+2. Attach the issue to your conversation: `@navikt/historisk-superhelt/issues/{issue-number}` (e.g., `@navikt/historisk-superhelt/issues/42`)
 3. Prompt:
    ```
    Using the github-coding-agent tool, create a pull request to implement this issue.
@@ -238,7 +238,7 @@ When you discover something useful:
 ### Request Limits
 
 - Copilot Free: Questions count toward monthly chat limit
-- Premium models: Each question counts as one request × model multiplier
+- Premium models: Each question counts as one request multiplied by the model multiplier
 - See [GitHub Copilot Plans](https://docs.github.com/en/copilot/get-started/plans) for details
 
 ### Privacy and Security
@@ -275,4 +275,3 @@ Welcome to Team Superhelt! We're excited to have you on board. 🎉
 - [GitHub Copilot Spaces Documentation](https://docs.github.com/en/copilot/how-tos/provide-context/use-copilot-spaces/)
 - [Understanding Copilot Requests and Usage](https://docs.github.com/en/copilot/managing-copilot/understanding-and-managing-copilot-usage/understanding-and-managing-requests-in-copilot)
 - [navikt/historisk-superhelt Repository](https://github.com/navikt/historisk-superhelt)
-- [Team Superhelt Wiki](#) (Add your team wiki link here)
