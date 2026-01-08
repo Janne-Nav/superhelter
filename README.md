@@ -1,36 +1,33 @@
-# Scale institutional knowledge using Copilot Spaces
+<div align="center">
 
-Learn how Copilot Spaces can scale institutional knowledge and streamline organizational processes.
+# 🎉 Congratulations Janne-Nav! 🎉
 
-## What are Copilot Spaces?
+<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
-- Copilot Spaces let you organize the context that Copilot uses to answer your questions.
-- Spaces can include repositories, code, pull requests, issues, free-text content like transcripts or notes, images, and file uploads.
-- You can ask Copilot questions grounded in that context, or share the space with your team to support collaboration and knowledge sharing.
+### 🌟 You've successfully completed the exercise! 🌟
 
-### Why use Copilot Spaces?
+## 🚀 Share Your Success!
 
-Whether you’re working solo or collaborating across a team, Spaces help you make Copilot more useful.
+**Show off your new skills and inspire others!**
 
-#### With Copilot Spaces you can
+<a href="https://twitter.com/intent/tweet?text=I%20just%20completed%20the%20%22Scale%20institutional%20knowledge%20using%20Copilot%20Spaces%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FJanne-Nav%2Fsuperhelter%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
+</a>
+<a href="https://bsky.app/intent/compose?text=I%20just%20completed%20the%20%22Scale%20institutional%20knowledge%20using%20Copilot%20Spaces%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FJanne-Nav%2Fsuperhelter%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Share on Bluesky" />
+</a>
+<a href="https://www.linkedin.com/feed/?shareActive=true&text=I%20just%20completed%20the%20%22Scale%20institutional%20knowledge%20using%20Copilot%20Spaces%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FJanne-Nav%2Fsuperhelter%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
+</a>
 
-- Get more relevant, specific answers from Copilot.
-- Stay in flow by collecting what you need for a task in one place.
-- Reduce repeated questions by sharing knowledge with your team.
-- Support onboarding and reuse with self-service context that lives beyond chat history.
-- Your spaces stay in sync as your project evolves.
-  - GitHub files and other GitHub-based sources added to a space are automatically updated as they change, making Copilot an evergreen expert in your project.
+### 🎯 What's Next?
 
-## Welcome
+**Keep the momentum going!**
 
-- **Who is this for**: Project managers, team leads, and developers looking to streamline knowledge sharing
-- **What you'll learn**: How to leverage GitHub Copilot Spaces to capture, organize, and improve project management processes
-- **What you'll build**: A comprehensive knowledge management system using Copilot Spaces for team collaboration
-- **Prerequisites**:
+[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/Janne-Nav/superhelter/issues/2)
+[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills)
 
-  - Basic familiarity with GitHub repositories
-  - Access to GitHub Copilot Spaces
-  - Beginner-level project management concepts
+*There's no better way to learn than building things!* 🚀
 
 - **How long**: This exercise takes less than 30 minutes to complete.
 
@@ -73,6 +70,7 @@ If the exercise isn't ready in 20 seconds, please check the [Actions](../../acti
 - If the page shows a failed job, please submit an issue. Nice, you found a bug! 🐛
 
 </details>
+</div>
 
 ## Additional Resources
 
@@ -90,3 +88,4 @@ If the exercise isn't ready in 20 seconds, please check the [Actions](../../acti
 ---
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+
