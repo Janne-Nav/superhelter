@@ -34,6 +34,15 @@ Whether you’re working solo or collaborating across a team, Spaces help you ma
 
 - **How long**: This exercise takes less than 30 minutes to complete.
 
+## Team Superhelt: Get Started Quickly
+
+If you're a member of Team Superhelt looking to use Copilot Spaces for onboarding and collaboration with the [navikt/historisk-superhelt](https://github.com/navikt/historisk-superhelt) repository:
+
+- **[Quick Start Guide](docs/copilot-spaces-quick-start.md)** - Get up and running in 5 minutes
+- **[Complete Onboarding Guide](docs/team-superhelt-onboarding-guide.md)** - Comprehensive guide for new team members
+
+These guides show you how to set up Copilot Spaces specifically for the historisk-superhelt repository and use it for effective team collaboration.
+
 In this exercise, you will use Copilot Spaces:
 
 1. Add a repository as a source to your Copilot Space
@@ -64,6 +73,19 @@ If the exercise isn't ready in 20 seconds, please check the [Actions](../../acti
 - If the page shows a failed job, please submit an issue. Nice, you found a bug! 🐛
 
 </details>
+
+## Additional Resources
+
+### For Team Superhelt Members
+
+- [Copilot Spaces Quick Start](docs/copilot-spaces-quick-start.md) - 5-minute setup guide
+- [Team Superhelt Onboarding Guide](docs/team-superhelt-onboarding-guide.md) - Complete onboarding documentation
+- [navikt/historisk-superhelt Repository](https://github.com/navikt/historisk-superhelt) - Team repository
+
+### General Resources
+
+- [GitHub Copilot Spaces Documentation](https://docs.github.com/en/copilot/how-tos/provide-context/use-copilot-spaces/)
+- [Understanding Copilot Requests](https://docs.github.com/en/copilot/managing-copilot/understanding-and-managing-copilot-usage/understanding-and-managing-requests-in-copilot)
 
 ---
 
